@@ -1,4 +1,4 @@
-#Conditions, 9/21/18
+# Conditions, 9/21/18
 This week in python we had learned a lot about conditions and how to make condtions and use them correctly making the program run better at a faster rate, and also mking the programs work with different variables, and we had learned on how to make a number game in which mine didnt work at all no matter what i had done.
 
 
